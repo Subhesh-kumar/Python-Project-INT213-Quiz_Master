@@ -1,0 +1,76 @@
+[
+    {
+        "1": "How many Keywords are there in C Programming language ?",
+        "2": "Which of the maximum possible length of an identifier ?",
+        "3": "In which year was the Python language developed ?",
+        "4": "In which language is Python written ?",
+        "5": "Which of the following is not a keyword in Python language ?",
+        "6": "The append Method adds value to the list at the  ?",
+        "7": "What is called when a function is defined inside a class ?",
+        "8": "Which of The following is executed in browser(client side) ?",
+        "9": "Which of the following keyword is used to create a function in Python ?",
+        "10": "To Declare a Global variable in python we use the keyword ?"
+    },
+    {
+        "1": [
+            "23",
+            "32",
+            "33",
+            "43"
+        ],
+        "2": [
+            "16",
+            "32",
+            "64",
+            "None of the above"
+        ],
+        "3": [
+            "1995",
+            "1972",
+            "1981",
+            "1989"
+        ],
+        "4": [
+            "English",
+            "PHP",
+            "C",
+            "All of the above"
+        ],
+        "5": [
+            "val",
+            "raise",
+            "try",
+            "with"
+        ],
+        "6": [
+            "custom location",
+            "end",
+            "center",
+            "beginning"
+        ],
+        "7": [
+            "Module",
+            "Class",
+            "Another Function",
+            "Method"
+        ],
+        "8": [
+            "perl",
+            "css",
+            "python",
+            "java"
+        ],
+        "9": [
+            "function",
+            "void",
+            "fun",
+            "def"
+        ],
+        "10": [
+            "all",
+            "var",
+            "let",
+            "global"
+        ]
+    }
+]
